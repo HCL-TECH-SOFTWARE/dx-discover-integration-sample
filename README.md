@@ -14,7 +14,7 @@ This is a working sample demonstratng how to integrate Discover into DX.
 - Improve user experience, by capturing and analyzing behavioral data
 - Obtain visibility into business impact and opportunities
 
-Here you see a user's sesion with a struggle in DX replayed in Discover:
+Here you see a user's session with a struggle in DX replayed in Discover:
 <img src="./img/DXinDiscover.png" width="100%">
 
 
